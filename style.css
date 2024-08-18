@@ -120,6 +120,7 @@ a {
   display: flex;
   justify-content: center;
   gap: 40px;
+  flex-wrap: wrap;
 }
 
 .fontOfBrand-h1 {
@@ -383,4 +384,92 @@ a {
   /* z-index: -1; */
 }
 
+.express-franchise-section-one{
+  display: flex;
+  justify-content: center;
+  gap: 40px;
+  flex-wrap: wrap;
+}
+
+.logo-salt-1{
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 62px;
+  color: #FFFFFF;
+  font-size: 1.5rem;
+  text-align: center;
+}
+
+.branches-name-style{
+  font-style: normal;
+  font-weight: 500;
+  font-size: 0.8rem;
+  line-height: 20px;
+  letter-spacing: 0.48em;
+  text-transform: uppercase;
+  color: #ED1C24;
+  display: block;
+  margin-top: 15px;
+  text-align: center;
+}
+.emporium-franchise-div{
+  text-align: center;
+}
+
+.emporium-franchise-div img{
+  height: 250px;
+  object-fit: cover;
+}
+
+h3{
+  font-size: 1.5rem;
+}
+
+.emporiumMall-location{
+  font-size: 0.8rem;
+  color: #d6d1d1;
+  margin-bottom: 10px;
+}
+
+.emporiumMall-number{
+  font-size: 0.8rem;
+  color: #d6d1d1;
+}
+
+.franchiseDirection2-btn {
+  border: none;
+  background-color: #000000;
+  color: #ffffff;
+  border: 0.1rem solid #ffffff;
+  border-radius: 30px;
+  width: 180px;
+  padding: 15px 0 15px 0;
+  cursor: pointer;
+  margin-top: 20px;
+}
+
+.franchiseDirection2-btn:hover{
+  border-color: #ed1c24;
+}
+
+.arrow-two {
+  padding: 8px 8px 6px;
+}
+
+.arrow-two {
+  background-color: #fff;
+  color: #dc3545;
+  width: 27px;
+  height: 27px;
+  padding: 7px 8px 6px;
+  border-radius: 35px;
+  margin-left: 10px;
+}
+
+.fa {
+  font-size: 16px;
+  transform: rotate(-33deg);
+
+}
 /* express franchise ended  */
