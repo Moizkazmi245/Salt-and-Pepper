@@ -92,6 +92,7 @@ a {
 
 .buffet-image {
   width: 100%;
+  margin: 0;
 }
 
 /* buffet image ended */
@@ -429,12 +430,19 @@ h3{
 .emporiumMall-location{
   font-size: 0.8rem;
   color: #d6d1d1;
-  margin-bottom: 10px;
+  margin-bottom: 30px;
+
 }
 
 .emporiumMall-number{
   font-size: 0.8rem;
   color: #d6d1d1;
+  margin-bottom: 30px;
+
+}
+
+.gujranwala-franchise-div{
+  text-align: center;
 }
 
 .franchiseDirection2-btn {
@@ -472,4 +480,186 @@ h3{
   transform: rotate(-33deg);
 
 }
+
+.gujranwala-location{
+  font-size: 0.8rem;
+  color: #d6d1d1;
+  margin-bottom: 30px;
+
+}
+
+.gujranwala-number{
+  font-size: 0.8rem;
+  color: #d6d1d1;
+  margin-bottom: 30px;
+
+}
+
+.sargodha-franchise-div{
+  text-align: center;
+}
+
+.jhelum-franchise-div{
+  text-align: center;
+}
+
+.jhelum-location{
+  font-size: 0.8rem;
+  color: #d6d1d1;
+  margin-bottom: 30px;
+
+}
+
+.jhelum-number{
+  font-size: 0.8rem;
+  color: #d6d1d1;
+  margin-bottom: 30px;
+
+}
+
+.faisalTown-franchise-div{
+  text-align: center;
+}
+
+.faisalTown-location{
+  font-size: 0.8rem;
+  color: #d6d1d1;
+  margin-bottom: 30px;
+
+}
+
+.faisalTown-number{
+  font-size: 0.8rem;
+  color: #d6d1d1;
+  margin-bottom: 30px;
+
+}
+
+.DHA-franchise-div{
+  text-align: center;
+}
+
+.DHA-location{
+  font-size: 0.8rem;
+  color: #d6d1d1;
+  margin-bottom: 30px;
+}
+
+.DHA-number{
+  font-size: 0.8rem;
+  color: #d6d1d1;
+  margin-bottom: 30px;
+
+}
+
+.bahria-franchise-div{
+  text-align: center;
+  margin-left: 10px;
+}
+
+.bahria-location{
+  font-size: 0.8rem;
+  color: #d6d1d1;
+  margin-bottom: 25px;
+}
+
+.bahria-number{
+  font-size: 0.8rem;
+  color: #d6d1d1;
+  margin-bottom: 25px;
+}
+
+.gujarKhan-franchise-div{
+  text-align: center;
+  margin-left: 15px;
+}
+
+.gujarKhan-location{
+  font-size: 0.8rem;
+  color: #d6d1d1;
+  margin-bottom: 35px;
+}
+
+.gujarKhan-number{
+  font-size: 0.8rem;
+  color: #d6d1d1;
+  margin-bottom: 35px;
+
+}
+
+.lahore-franchise-div{
+  text-align: center;
+}
+
+
+.lahore-image{
+  height: 250px;
+  object-fit: cover;
+  width: 100%;
+  max-width: 400px;
+}
+
+.lahore-location{
+  font-size: 0.8rem;
+  color: #d6d1d1;
+  margin-bottom: 35px;
+}
+
+.lahore-number{
+  font-size: 0.8rem;
+  color: #d6d1d1;
+  margin-bottom: 35px;
+}
+
+.gujrat-franchise-div{
+  text-align: center;
+}
+
+.gujrat-image{
+  height: 250px;
+  object-fit: cover;
+  width: 100%;
+  max-width: 400px;
+}
+
+.gujrat-location{
+  font-size: 0.8rem;
+  color: #d6d1d1;
+  margin-bottom: 35px;
+}
+
+.gujrat-number{
+  font-size: 0.8rem;
+  color: #d6d1d1;
+  margin-bottom: 35px;
+}
+
+.sahiwal-franchise-div{
+  text-align: center;
+}
+
+.sahiwal-image{
+  height: 250px;
+  object-fit: cover;
+  width: 100%;
+  max-width: 370px;
+}
+
+.sahiwal-location{
+  font-size: 0.8rem;
+  color: #d6d1d1;
+  margin-bottom: 35px;
+}
+
+.sahiwal-number{
+  font-size: 0.8rem;
+  color: #d6d1d1;
+  margin-bottom: 35px;
+}
+
+
+/* 
+.lahore-franchise-div{
+  display: flex;
+} */
 /* express franchise ended  */
