@@ -663,3 +663,53 @@ h3{
   display: flex;
 } */
 /* express franchise ended  */
+
+
+/* village franchise started  */
+
+.village-franchise-section{
+  background-color: #0f0f0f;
+  padding: 48px 0px;
+}
+
+.village-franchise-heading{
+  text-align: center;
+}
+
+.restaurant-village-h1 {
+  font-family: "butler";
+  font-size: 3rem;
+  margin-bottom: 10px;
+}
+
+.gujranwalaFranshies-div {
+  display: flex;
+  /* justify-content: space-between; */
+  margin-bottom: 48px;
+  gap: 30px;
+  flex-wrap: wrap;
+}
+
+.gujranwala-village-image{
+  width: 100%;
+  max-width: 650px;
+}
+
+
+.gujranwala-village-franchise-div{
+  margin-top: 80px;
+  /* margin-right: 50px; */
+}
+
+.gujranwala-location-p{
+  font-size: 1rem;
+  color: #d6d1d1;
+  margin-bottom: 5px;
+}
+
+.gujranwala-number-p{
+  font-size: 1rem;
+  color: #d6d1d1;
+  margin-bottom: 35px;
+}
+/* village franchise ended  */
