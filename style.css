@@ -273,6 +273,7 @@ a {
 .franchiseDirection-btn:hover {
   border-color: #ed1c24;
 }
+
 /* islamabad franchise ended */
 
 
@@ -327,7 +328,7 @@ a {
 /* bahawalpur franchise started */
 
 
-.restaurantsFranchise-div3{
+.restaurantsFranchise-div3 {
   display: flex;
   justify-content: space-between;
   margin-bottom: 48px;
@@ -372,7 +373,7 @@ a {
 
 /* express franchise started  */
 
-.franchise-section-two{
+.franchise-section-two {
   background-color: #000000;
   padding: 70px 0px 38px;
   position: relative;
@@ -385,14 +386,14 @@ a {
   /* z-index: -1; */
 }
 
-.express-franchise-section-one{
+.express-franchise-section-one {
   display: flex;
   justify-content: center;
   gap: 40px;
   flex-wrap: wrap;
 }
 
-.logo-salt-1{
+.logo-salt-1 {
   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
   font-style: normal;
   font-weight: 500;
@@ -402,7 +403,7 @@ a {
   text-align: center;
 }
 
-.branches-name-style{
+.branches-name-style {
   font-style: normal;
   font-weight: 500;
   font-size: 0.8rem;
@@ -414,34 +415,35 @@ a {
   margin-top: 15px;
   text-align: center;
 }
-.emporium-franchise-div{
+
+.emporium-franchise-div {
   text-align: center;
 }
 
-.emporium-franchise-div img{
+.emporium-franchise-div img {
   height: 250px;
   object-fit: cover;
 }
 
-h3{
+h3 {
   font-size: 1.5rem;
 }
 
-.emporiumMall-location{
+.emporiumMall-location {
   font-size: 0.8rem;
   color: #d6d1d1;
   margin-bottom: 30px;
 
 }
 
-.emporiumMall-number{
+.emporiumMall-number {
   font-size: 0.8rem;
   color: #d6d1d1;
   margin-bottom: 30px;
 
 }
 
-.gujranwala-franchise-div{
+.gujranwala-franchise-div {
   text-align: center;
 }
 
@@ -457,7 +459,7 @@ h3{
   margin-top: 20px;
 }
 
-.franchiseDirection2-btn:hover{
+.franchiseDirection2-btn:hover {
   border-color: #ed1c24;
 }
 
@@ -481,177 +483,177 @@ h3{
 
 }
 
-.gujranwala-location{
+.gujranwala-location {
   font-size: 0.8rem;
   color: #d6d1d1;
   margin-bottom: 30px;
 
 }
 
-.gujranwala-number{
+.gujranwala-number {
   font-size: 0.8rem;
   color: #d6d1d1;
   margin-bottom: 30px;
 
 }
 
-.sargodha-franchise-div{
+.sargodha-franchise-div {
   text-align: center;
 }
 
-.jhelum-franchise-div{
+.jhelum-franchise-div {
   text-align: center;
 }
 
-.jhelum-location{
+.jhelum-location {
   font-size: 0.8rem;
   color: #d6d1d1;
   margin-bottom: 30px;
 
 }
 
-.jhelum-number{
+.jhelum-number {
   font-size: 0.8rem;
   color: #d6d1d1;
   margin-bottom: 30px;
 
 }
 
-.faisalTown-franchise-div{
+.faisalTown-franchise-div {
   text-align: center;
 }
 
-.faisalTown-location{
+.faisalTown-location {
   font-size: 0.8rem;
   color: #d6d1d1;
   margin-bottom: 30px;
 
 }
 
-.faisalTown-number{
+.faisalTown-number {
   font-size: 0.8rem;
   color: #d6d1d1;
   margin-bottom: 30px;
 
 }
 
-.DHA-franchise-div{
+.DHA-franchise-div {
   text-align: center;
 }
 
-.DHA-location{
+.DHA-location {
   font-size: 0.8rem;
   color: #d6d1d1;
   margin-bottom: 30px;
 }
 
-.DHA-number{
+.DHA-number {
   font-size: 0.8rem;
   color: #d6d1d1;
   margin-bottom: 30px;
 
 }
 
-.bahria-franchise-div{
+.bahria-franchise-div {
   text-align: center;
   margin-left: 10px;
 }
 
-.bahria-location{
+.bahria-location {
   font-size: 0.8rem;
   color: #d6d1d1;
   margin-bottom: 25px;
 }
 
-.bahria-number{
+.bahria-number {
   font-size: 0.8rem;
   color: #d6d1d1;
   margin-bottom: 25px;
 }
 
-.gujarKhan-franchise-div{
+.gujarKhan-franchise-div {
   text-align: center;
   margin-left: 15px;
 }
 
-.gujarKhan-location{
+.gujarKhan-location {
   font-size: 0.8rem;
   color: #d6d1d1;
   margin-bottom: 35px;
 }
 
-.gujarKhan-number{
+.gujarKhan-number {
   font-size: 0.8rem;
   color: #d6d1d1;
   margin-bottom: 35px;
 
 }
 
-.lahore-franchise-div{
+.lahore-franchise-div {
   text-align: center;
 }
 
 
-.lahore-image{
+.lahore-image {
   height: 250px;
   object-fit: cover;
   width: 100%;
   max-width: 400px;
 }
 
-.lahore-location{
+.lahore-location {
   font-size: 0.8rem;
   color: #d6d1d1;
   margin-bottom: 35px;
 }
 
-.lahore-number{
+.lahore-number {
   font-size: 0.8rem;
   color: #d6d1d1;
   margin-bottom: 35px;
 }
 
-.gujrat-franchise-div{
+.gujrat-franchise-div {
   text-align: center;
 }
 
-.gujrat-image{
+.gujrat-image {
   height: 250px;
   object-fit: cover;
   width: 100%;
   max-width: 400px;
 }
 
-.gujrat-location{
+.gujrat-location {
   font-size: 0.8rem;
   color: #d6d1d1;
   margin-bottom: 35px;
 }
 
-.gujrat-number{
+.gujrat-number {
   font-size: 0.8rem;
   color: #d6d1d1;
   margin-bottom: 35px;
 }
 
-.sahiwal-franchise-div{
+.sahiwal-franchise-div {
   text-align: center;
 }
 
-.sahiwal-image{
+.sahiwal-image {
   height: 250px;
   object-fit: cover;
   width: 100%;
   max-width: 370px;
 }
 
-.sahiwal-location{
+.sahiwal-location {
   font-size: 0.8rem;
   color: #d6d1d1;
   margin-bottom: 35px;
 }
 
-.sahiwal-number{
+.sahiwal-number {
   font-size: 0.8rem;
   color: #d6d1d1;
   margin-bottom: 35px;
@@ -667,12 +669,12 @@ h3{
 
 /* village franchise started  */
 
-.village-franchise-section{
+.village-franchise-section {
   background-color: #0f0f0f;
   padding: 48px 0px;
 }
 
-.village-franchise-heading{
+.village-franchise-heading {
   text-align: center;
 }
 
@@ -690,26 +692,105 @@ h3{
   flex-wrap: wrap;
 }
 
-.gujranwala-village-image{
+.gujranwala-village-image {
   width: 100%;
   max-width: 650px;
 }
 
 
-.gujranwala-village-franchise-div{
+.gujranwala-village-franchise-div {
   margin-top: 80px;
   /* margin-right: 50px; */
 }
 
-.gujranwala-location-p{
+.gujranwala-location-p {
   font-size: 1rem;
   color: #d6d1d1;
   margin-bottom: 5px;
 }
 
-.gujranwala-number-p{
+.gujranwala-number-p {
   font-size: 1rem;
   color: #d6d1d1;
   margin-bottom: 35px;
 }
+
 /* village franchise ended  */
+
+/* new restaurants express oppening started */
+
+.oppening-franchises-section {
+  background-color: #000000;
+  padding: 60px 0px 38px;
+}
+
+.oppening-franchise-heading {
+  text-align: center;
+}
+
+.restaurant-oppening-h1 {
+  font-family: "butler";
+  font-size: 3rem;
+  margin-bottom: 10px;
+}
+
+.oppeing-soon-franchise {
+  font-family: "butler";
+  font-size: 2rem;
+}
+
+.location-card-box {
+  height: 230px;
+  background: #FFFFFF;
+  border-radius: 4px;
+  text-align: center;
+  max-width: 33%;
+  padding: 25px 25px 225px 25px;
+  margin-bottom: 32px;
+  width: 25%;
+}
+
+.location-flex{
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+  flex-wrap: wrap;
+}
+
+.expressFranchise{
+  font-style: normal;
+  font-weight: 500;
+  font-size: 0.8rem;
+  line-height: 20px;
+  letter-spacing: 0.48em;
+  text-transform: uppercase;
+  color: #ed1c24;
+  display: block;
+
+}
+
+.logo-salt-small{
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 62px;
+  color: #000000;
+  font-size: 1.5rem;
+  text-align: center;
+}
+
+.h4-heading{
+  font-family: "butler";
+  color: #000000;
+  font-size: 1.5rem;
+}
+
+.p-heading{
+  font-family: "butler";
+  color: #000000;
+  font-size: 1.5rem;
+  /* margin-bottom: 100px; */
+  padding-bottom: 100px;
+}
+
+/* new restaurants express oppening ended */
