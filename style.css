@@ -16,7 +16,13 @@ body {
   /* margin-right: 50px; */
 }
 
-@media (max-width : 400px){
+@media only screen and (max-width : 350px){
+  body{
+    overflow-x: hidden;
+  }
+}
+
+@media only screen and (min-width : 350px){
   body{
     overflow-x: hidden;
   }
@@ -62,6 +68,14 @@ a {
 .nav-pages-buttons-gap {
   display: flex;
   gap: 20px;
+  flex-wrap: wrap;
+}
+
+@media only screen and (max-width: 400px){
+  .nav-pages-buttons-gap{
+    display: flex;
+    flex-direction: column;
+  }
 }
 
 .orderOnline-button {
@@ -709,6 +723,12 @@ h3 {
   padding: 60px 0px 38px;
 }
 
+@media only screen and (max-width : 429px){
+  .oppening-franchises-section{
+    flex-direction: column;
+  }
+}
+
 .oppening-franchise-heading {
   text-align: center;
 }
@@ -917,6 +937,14 @@ h3 {
   color: #0f0f0f;
   border-top: 1px solid rgba(255, 255, 255, 0.08);
   width: 100%;
+}
+
+@media only screen and (max-width: 429px){
+  .second-section-footer{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+  }
 }
 
 .container {
