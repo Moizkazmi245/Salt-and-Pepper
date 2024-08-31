@@ -16,6 +16,12 @@ body {
   /* margin-right: 50px; */
 }
 
+@media (max-width : 400px){
+  body{
+    overflow-x: hidden;
+  }
+}
+
 :root {
   --black: #000000;
   --red: #ed1c24;
