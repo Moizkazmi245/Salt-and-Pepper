@@ -22,7 +22,7 @@ body {
   }
 }
 
-@media only screen and (min-width : 350px){
+@media only screen and (min-width : 200px){
   body{
     overflow-x: hidden;
   }
@@ -48,6 +48,7 @@ a {
   justify-content: space-around;
   align-items: center;
   flex-wrap: wrap;
+  border-bottom: 1px solid rgb(255 255 255 / 19%);;
 }
 
 .logo-image {
@@ -63,6 +64,13 @@ a {
 .navbar-button {
   display: flex;
   gap: 20px;
+}
+@media only screen and (max-width: 400px){
+  .navbar-button{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+  }
 }
 
 .nav-pages-buttons-gap {
